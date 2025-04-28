@@ -1,0 +1,27 @@
+Nombre: Gabriel;ID: 4343;Edad: 33;Fecha21/04/2025;Hora23:36:07;Tramite: D;Tipo: P
+
+
+
+
+
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=jULIAN, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=jULIAN, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Fernando, id=323, edad=33, fecha=22/04/2025, hora=12:17:48, tramite=D, tipo=P}
+Tiquete{Nombre=Josue, id=3232, edad=32, fecha=hoy, hora=232, tramite=D y R, tipo=B}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Francisco, id=4333, edad=32, fecha=24/04/2025, hora=16:46:04, tramite=D, tipo=A}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=jULIAN, id=3232, edad=32, fecha=hoy, hora=232, tramite=D, tipo=P}
+Tiquete{Nombre=Valeria, id=4333, edad=44, fecha=24/04/2025, hora=16:46:04, tramite=D, tipo=P}
+Tiquete{Nombre=Josue, id=3232, edad=32, fecha=hoy, hora=232, tramite=D y R, tipo=B}
+Tiquete{Nombre=fsf, id=3423, edad=4, fecha=24/04/2025, hora=18:43:52, tramite=D, tipo=A}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=24/04/2025, hora=18:56:28, tramite=D, tipo=P}
+Tiquete{Nombre=jULIAN, id=3232, edad=32, fecha=24/04/2025, hora=18:56:28, tramite=D, tipo=P}
+Tiquete{Nombre=Josue, id=3232, edad=32, fecha=24/04/2025, hora=18:56:28, tramite=D y R, tipo=B}
+Tiquete{Nombre=hdfshd, id=323, edad=323, fecha=24/04/2025, hora=18:56:28, tramite=D, tipo=P}
+Tiquete{Nombre=Estebam, id=433, edad=33, fecha=26/04/2025, hora=13:48:03, tramite=D, tipo=A}
+Tiquete{Nombre=Andres, id=3232, edad=32, fecha=26/04/2025, hora=13:48:03, tramite=D, tipo=P}
